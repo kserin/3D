@@ -16,3 +16,7 @@ Made with [Autodesk Fusion 360](https://www.autodesk.fr/products/fusion-360/over
 * `buttonHolderHeight (mm)`: Height of holders inside the the cap.
 * `collarSize (mm)`: Width of the collar. (0.8mm is recommended to print it without support).
 * `collarHeight (mm)`: Thickness of the collar.
+
+## License
+
+[![cc-by-4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE)
